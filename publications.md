@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7pPYEAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.ca/citations?user=pkw6kkYAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
 - **Recurrent Value Functions**  
