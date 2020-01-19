@@ -7,7 +7,7 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7p
 <br />
 
 - **Recurrent Value Functions**  
-	**Pierre Thodoroff**, Nishanth Anand, Lucas Caccia, Doina Precup, Joelle Pineau.  
+	**Pierre Thodoroff**\*, Nishanth Anand\*, Lucas Caccia, Doina Precup, Joelle Pineau.  
 	*Reinforcement Learning and Decision Making Conference* (RLDM) 2019.  
 	[PDF](https://pierthodo.github.io/recurrent_value_functions.pdf){: .btn}
 
@@ -17,5 +17,14 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7p
 	*Neural Information Processing Conference* (NeurIPS) 2018.  
 	[PDF](https://pierthodo.github.io/Temporal_regularization.pdf){: .btn}
 	[Code](https://github.com/pierthodo/temporal_regularization){: .btn}
+	
+- **Adversarial Balancing for Causal Inference**  
+	Michal Ozery-Flato\*, **Pierre Thodoroff**\*, Matan Ninio, Michal Rosen-Zvi, Tal El-Hay.  
+	*Causal inference workshop* (NeurIPS) 2018.  
+	[PDF](https://pierthodo.github.io/Adversarial_balancing.pdf){: .btn}
 
+- **Learning Robust Features using Deep Learning for Automatic Seizure Detection**  
+	**Pierre Thodoroff**, Joelle Pineau, Andrew Lim.  
+	*Machine Learning for Healthcare* (MLHC) 2016.  
+	[PDF](https://pierthodo.github.io/automatic_seizure_detection.pdf){: .btn}
 <br /> 
