@@ -1,16 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a researcher in the MILA institute under the supervision of Dr Pineau and currently working towards a Master’s Degree in Computer Science at McGill University. My research focuses on reinforcement learning and machine learning for healthcare. During the summer of 2017 I was an intern at IBM Research Israel in the Machine Learning for Healthcare group under the supervision of Dr El-Hay. My first degree was in Mathematics and Computer Science at McGill University.
