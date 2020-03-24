@@ -21,7 +21,6 @@ description: Pierre Thodoroff - Personal website
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Blog: "blog"
   Publications: "publications"
   Travel: "http://thodoshkina.com/"
   Resume: "resume"
