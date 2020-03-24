@@ -17,6 +17,7 @@ You can also browse my <a href="https://scholar.google.ca/citations?user=pkw6kkY
 	*Neural Information Processing Conference* (NeurIPS) 2018.  
 	[PDF](https://pierthodo.github.io/Temporal_regularization.pdf){: .btn}
 	[Code](https://github.com/pierthodo/temporal_regularization){: .btn}
+	[Thesis](https://github.com/pierthodo/temporal_regularization_thesis){: .btn}
 	
 - **Adversarial Balancing for Causal Inference**  
 	Michal Ozery-Flato\*, **Pierre Thodoroff**\*, Matan Ninio, Michal Rosen-Zvi, Tal El-Hay.  
