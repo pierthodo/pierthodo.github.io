@@ -1,0 +1,3 @@
+The first question is why are we interesting in Causality in the first place. Many people will tell you that causality is what makes human intelligent. However, from a practical perspective the real value of causality is for generalization. 
+
+One element that drove me to study closer the topic or causality in reinforcement learning is that most of the literature in causality relies on the concept of intervention. 
