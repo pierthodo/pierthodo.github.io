@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Publications
 ---
+
+## Research published in Conference 
 
 You can also browse my <a href="https://scholar.google.ca/citations?user=pkw6kkYAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
@@ -29,3 +30,12 @@ You can also browse my <a href="https://scholar.google.ca/citations?user=pkw6kkY
 	*Machine Learning for Healthcare* (MLHC) 2016.  
 	[PDF](https://pierthodo.github.io/automatic_seizure_detection.pdf){: .btn}
 <br /> 
+
+## Thesis
+
+fff
+
+## Research proposal for graduate school application
+
+## Class project 
+
