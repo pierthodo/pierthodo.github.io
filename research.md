@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Research
 ---
 
 ## Research published in Conference 
@@ -32,10 +33,12 @@ You can also browse my <a href="https://scholar.google.ca/citations?user=pkw6kkY
 <br /> 
 
 ## Thesis
-
-fff
+- **Temporal regularization**  
+	[PDF](https://github.com/pierthodo/pierthodo.github.io/blob/master/temporal_regularization_thesis.pdf){: .btn}
 
 ## Research proposal for graduate school application
+- **Control theory and Reinforcement Learning**  
+	[PDF](https://github.com/pierthodo/pierthodo.github.io/blob/master/Research_proposal_cambridge.pdf){: .btn}
 
 ## Class project 
 
