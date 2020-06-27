@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 title: About me
 cover-img: background_website.jpg
 ---
