@@ -20,8 +20,8 @@ description: Pierre Thodoroff - Personal website
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
-  Blog: "blog_page"
+  Home: "aboutme"
+  Blog: "index"
   Publications: "publications"
   Travel: "http://thodoshkina.com/"
   Resume: "resume"
