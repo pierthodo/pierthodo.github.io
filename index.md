@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+cover-img: https://github.com/pierthodo/pierthodo.github.io/blob/master/background_website.jpg
 ---
 My research interests lie at the intersection of theory and practice in Machine Learning. Considering practical problems is essential in identifying critical theme to be addressed from a more theoretical perspective. Practically, I am interested in applications of machine learning in natural science (physics, chemistry) and healthcare. More theoretically, my recent works have been focusing on data-driven sequential decision making (control theory, reinforcement learning), causality and deep learning.
 
